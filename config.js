@@ -13,7 +13,7 @@ module.exports = {
   JWT_SECRET: "rasel",
 
   //baseURL
-  baseURL: "http://18.140.6.99/",
+  baseURL: "https://kitmuser.online/",
 
   //firebase server key for send notification
   SERVER_KEY:
